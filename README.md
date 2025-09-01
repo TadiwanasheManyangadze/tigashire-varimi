@@ -2,6 +2,9 @@
 
 A beautiful e-commerce platform connecting Zimbabwean farmers with consumers worldwide. Built with React, Node.js, and MongoDB.
 
+![Image 1](assets/img1.png)
+
+
 ## ✨ Features
 
 - **Beautiful UI/UX** - Modern, responsive design with Google Poppins font
